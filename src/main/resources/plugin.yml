@@ -1,0 +1,9 @@
+# Copyright (C) 2013 Rotzloch (roland.vonrotz@gmail.com)
+name: ${project.name}
+author: Rotzloch
+main: ${main.class}
+version: ${project.version}
+commands:
+  pw:
+    description: Use the right password for promote
+    usage: With /pw help you become help
